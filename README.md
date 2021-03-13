@@ -59,5 +59,5 @@ Gambarkan sebuah infrastruktur server yang baik dan benar untuk aplikasi microse
 
 Jawaban Nomor 7
 
-
+![Infrastruktur server](https://github.com/aureezzhenx/test-technical-devops/blob/main/images/03.png)
 
