@@ -43,3 +43,11 @@ Jawaban Nomor 4
 CI/CD diperlukan dalam membantu developer dan tester dalam melakukan rilis dan update aplikasi atau software dengan lebih cepat dan aman, terutama karena CI/CD dilakukan dalam 'environment' yang terstruktur.
 ![Flow](https://github.com/aureezzhenx/test-technical-devops/blob/main/images/02.png)
 
+
+Soal Nomor 5
+
+Apa perbedaan puppet, ansible, chef dan terraform? Gambarkan dan jelaskan!
+
+Jawaban Nomor 5
+
+Puppet dan Ansible hanya berbeda di Segi Languange, Chef lebih kearah Config Management, sedangkan Terraform difokuskan di Orchestration
