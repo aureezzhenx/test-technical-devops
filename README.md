@@ -5,6 +5,7 @@ Sistem Operasi yang digunakan: Windows 10 Pro
 
 Sumber Artikel:
 - https://aws.amazon.com/id/devops/what-is-devops/#:~:text=DevOps%20adalah%20kombinasi%20dari%20filosofi,pengembangan%20perangkat%20lunak%20dan%20proses
+- https://www.dicoding.com/blog/apa-itu-devops/
 - 
 
 
