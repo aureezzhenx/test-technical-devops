@@ -11,6 +11,7 @@ Sumber Artikel:
 - https://www.petanikode.com/git-untuk-pemula/
 - https://opsani.com/resources/what-is-ci-cd/
 - https://www.jagoanhosting.com/blog/implementasi-ci-cd-pipeline/#:~:text=CI%2FCD%20juga%20berguna%20dalam,artikel%20berikut%20lebih%20lanjut%20ya
+- https://www.jagoanhosting.com/blog/dunia-developer-monolithic-vs-microservice-dalam-infrastruktur-aplikasi/
 
 
 Soal Nomor 1
