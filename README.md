@@ -50,4 +50,13 @@ Apa perbedaan puppet, ansible, chef dan terraform? Gambarkan dan jelaskan!
 
 Jawaban Nomor 5
 
-Puppet dan Ansible hanya berbeda di Segi Languange, Chef lebih kearah Config Management, sedangkan Terraform difokuskan di Orchestration
+Puppet dan Ansible hanya berbeda di Segi Languange, Chef lebih kearah Config Management, sedangkan Terraform difokuskan di Orchestration.
+
+Soal Nomor 7
+
+Gambarkan sebuah infrastruktur server yang baik dan benar untuk aplikasi microservices?
+
+Jawaban Nomor 7
+
+
+
