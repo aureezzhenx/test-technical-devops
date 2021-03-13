@@ -7,7 +7,8 @@ Sumber Artikel:
 - https://aws.amazon.com/id/devops/what-is-devops/#:~:text=DevOps%20adalah%20kombinasi%20dari%20filosofi,pengembangan%20perangkat%20lunak%20dan%20proses
 - https://www.dicoding.com/blog/apa-itu-devops/
 - https://www.petanikode.com/git-untuk-pemula/
-- 
+- https://opsani.com/resources/what-is-ci-cd/
+- https://www.jagoanhosting.com/blog/implementasi-ci-cd-pipeline/#:~:text=CI%2FCD%20juga%20berguna%20dalam,artikel%20berikut%20lebih%20lanjut%20ya
 
 
 Soal Nomor 1
