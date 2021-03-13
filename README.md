@@ -31,4 +31,11 @@ Git adalah salah satu tool yang sering digunakan dalam proyek pengembangan softw
 
 Cara kerja Git: Memantau semua perubahan yang terjadi pada file proyek. Lalu menyimpannya ke dalam database. Hanya akan ada satu file dalam proyek dan perubahannya disimpan dalam database. Git hanya akan menyimpan delta perubahannya saja, dia tidak akan menyimpan seluruh isi file yang akan memakan banyak memori.
 
+Soal Nomor 4
+
+CI/CD (Continuous Integration/Continuous Development) merupakan hal yang sering ditemui oleh seorang DevOps. Menurut pendapatmu mengapa CI/CD diperlukan dan berikan gambaran diagram kerjanya (Workflow)! 
+
+Jawaban Nomor 4
+
+CI/CD diperlukan dalam membantu developer dan tester dalam melakukan rilis dan update aplikasi atau software dengan lebih cepat dan aman, terutama karena CI/CD dilakukan dalam 'environment' yang terstruktur.
 
