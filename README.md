@@ -8,9 +8,7 @@ Sumber Artikel:
 
 
 Soal Nomor 1
-
 Dalam sebuah perusahaan Andi bekerja sebagai DevOps, jelaskan menurut pendapatmu definisi tentang DevOps dan seberapa penting DevOps di suatu perusahaan serta gambarkan flow DevOps dari development hingga ke production?
 
 Jawaban Nomor 1
-
 DevOps adalah kombinasi dari filosofi budaya, penerapan, dan peralatan yang meningkatkan kemampuan organisasi untuk memberikan aplikasi dan layanan dalam kecepatan yang tinggi: mengembangkan dan meningkatkan produk dalam waktu yang lebih cepat dari organisasi yang menggunakan pengembangan perangkat lunak dan proses pengelolaan infrastruktur tradisional.
