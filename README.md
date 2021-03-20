@@ -1,9 +1,9 @@
 # test-technical-devops
-Jouzie Aulia Rezky - Devops Engineer Batch 4
+Jouzie Aulia Rezky - Devops Engineer Batch 4 - 20 Maret 2021
 
 Test Technical Online Bootcamp DumbWays.id DEVOPS ENGINEER
 
-Sistem Operasi yang digunakan: Windows 10 Pro
+Sistem Operasi yang digunakan: Windows 10 Home 20H2
 
 Sumber Artikel:
 - https://aws.amazon.com/id/devops/what-is-devops/#:~:text=DevOps%20adalah%20kombinasi%20dari%20filosofi,pengembangan%20perangkat%20lunak%20dan%20proses
