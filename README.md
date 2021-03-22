@@ -1,4 +1,4 @@
-# test-technical-devops
+# Test Technical DevOps
 Jouzie Aulia Rezky - Devops Engineer Batch 4 - 20 Maret 2021
 
 Test Technical Online Bootcamp DumbWays.id DEVOPS ENGINEER
