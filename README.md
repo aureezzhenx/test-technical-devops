@@ -54,6 +54,6 @@ Puppet dan Ansible hanya berbeda di Segi Languange, Chef lebih kearah Config Man
 # Soal Nomor 7
 Gambarkan sebuah infrastruktur server yang baik dan benar untuk aplikasi microservices?
 
-#Jawaban Nomor 7
+# Jawaban Nomor 7
 ![Infrastruktur server](https://github.com/aureezzhenx/test-technical-devops/blob/main/images/03.png)
 
