@@ -13,6 +13,7 @@ Sumber Artikel:
 - https://www.jagoanhosting.com/blog/implementasi-ci-cd-pipeline/#:~:text=CI%2FCD%20juga%20berguna%20dalam,artikel%20berikut%20lebih%20lanjut%20ya
 - https://www.jagoanhosting.com/blog/dunia-developer-monolithic-vs-microservice-dalam-infrastruktur-aplikasi/
 - https://dicarve.blogspot.com/2017/12/membangun-aplikasi-web-dengan-platform.html
+- https://www.nurandi.id/blog/apa-itu-jekyll-bagaimana-instalasinya-di-windows/
 
 
 # Soal Nomor 1
