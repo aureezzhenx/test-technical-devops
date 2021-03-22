@@ -59,3 +59,9 @@ Gambarkan sebuah infrastruktur server yang baik dan benar untuk aplikasi microse
 # Jawaban Nomor 7
 ![Infrastruktur server](https://github.com/aureezzhenx/test-technical-devops/blob/main/images/03.png)
 
+# Soal Nomor 8
+Buatlah sebuah aplikasi statis dengan jekyll atau hugo, kemudian upload aplikasi tersebut dari komputer lokal ke github pages (https://pages.github.com), agar aplikasi tersebut dapat diakses secara publik. Contoh : sgnd.github.io Sertakan screenshot step by step-nya atau record menjadi sebuah video
+
+# Jawaban Nomor 8
+TBA
+
