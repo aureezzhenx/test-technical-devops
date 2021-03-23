@@ -65,3 +65,4 @@ Buatlah sebuah aplikasi statis dengan jekyll atau hugo, kemudian upload aplikasi
 # Jawaban Nomor 8
 TBA
 
+https://aureezzhenx.github.io/myblog
